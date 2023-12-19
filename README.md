@@ -1,6 +1,6 @@
 # SecurityHub
 
-__Do need you help to analyze your security trends and identify the highest priority security issues?__
+__Do you need help analyzing your security trends and identifying the highest-priority security issues?__
 
 <!-- retro visitor counter -->
 <p align="center"> 
